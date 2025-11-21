@@ -1,0 +1,13 @@
+
+> vibe-generated-app@1.0.0 dev
+> vite
+
+
+  VITE v5.4.20  ready in 268 ms
+
+  ➜  Local:   http://localhost:3000/
+  ➜  Network: http://172.20.7.155:3000/
+5:26:36 AM [vite] ✨ new dependencies optimized: lucide-react
+5:26:36 AM [vite] ✨ optimized dependencies changed. reloading
+Files in the public directory are served at the root path.
+Instead of /public/condom-pouch.png, use /condom-pouch.png.
